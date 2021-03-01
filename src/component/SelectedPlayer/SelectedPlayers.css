@@ -1,0 +1,14 @@
+.team{
+      width: 200%;
+      text-align: center;
+}
+
+.added-player{
+      width: 30%;
+      margin: auto;
+}
+
+.added-player img{
+      height: 100px;
+      width: 100%;
+}

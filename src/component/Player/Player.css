@@ -1,0 +1,20 @@
+.image img{
+      height: 200px;
+      width: 90%;
+      margin-top: 10px;
+      border-radius: 10px;
+}
+
+.image{
+      width: 100%;
+}
+
+.player-info{
+      background-color: beige;
+      text-align: center;
+      width: 30%;
+      margin-bottom: 20px;
+      border-radius: 10px;
+      float: left;
+      margin-right: 10px;
+}
